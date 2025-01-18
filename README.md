@@ -23,7 +23,7 @@ This repository serves as a roadmap for learning data analysis with Python. It i
 
 Check out the image below to get an overview of the data analysis process and the topics covered in this repository.
 
-![Data Analysis Roadmap](./Data-Analysis-with-Python-roadmap.jpg)
+![Data Analysis Roadmap]([Data-Analysis-with-Python-roadmap.jpg](https://github.com/codewithEshaYoutube/Data-Analysis-with-Python-/blob/main/Data%20Analysis%20with%20Python-roadmap.jpg?raw=true))
 
 ## File Structure
 
