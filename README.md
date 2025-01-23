@@ -1,3 +1,5 @@
+**Visit my Kaggle Profile**:
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-EshaTariqDev-blue?logo=kaggle)](https://www.kaggle.com/eshatariqdev)
 # Data Analysis with Python
 
 Welcome to the **Data Analysis with Python** repository! This repository contains resources, tutorials, and code related to data analysis using Python.
@@ -27,8 +29,4 @@ Check out the image below to get an overview of the data analysis process and th
 <div style="display: flex; justify-content: center;">
   <img src="Data Analysis with Python-roadmap.jpg" width="800px" />
 </div>
-
-## File Structure
-
-Here's a brief explanation of the files and folders in this repository:
 
